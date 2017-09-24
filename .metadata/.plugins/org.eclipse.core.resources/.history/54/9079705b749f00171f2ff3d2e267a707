@@ -1,0 +1,9 @@
+package net.nekisse.user;
+
+public class user {
+	private String userId;
+	private String password;
+	private String name;
+	private String email;
+	
+}

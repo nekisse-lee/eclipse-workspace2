@@ -1,0 +1,17 @@
+package net.nekisse.user;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+public class UserTest {
+
+	@Test
+	public void matchPassword() {
+		User user = new User("userId", "passowrd", "name", "email@email.com");
+		
+		assertTrue(user.matchPassworld("password"));
+		
+	}
+
+}

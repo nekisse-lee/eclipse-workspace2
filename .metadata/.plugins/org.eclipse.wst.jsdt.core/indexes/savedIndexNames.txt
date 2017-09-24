@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+/Users/Nekisse_lee/eclipse-workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+245310768.index
+3459848830.index
+2464173978.index
+3151934602.index
+2044175947.index
+202970915.index
+882525084.index
